@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Weather Widget for Elementor
- * Description: Кастомный виджет прогноза погоды для Elementor (OpenWeatherMap API)
+ * Description: Custom weather forecast widget for Elementor (OpenWeatherMap API)
  * Version: 1.1.0
  * Author: Alex Abashyn
  */
